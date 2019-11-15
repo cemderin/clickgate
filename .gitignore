@@ -1,0 +1,9 @@
+.hypress/htdocs/wp
+node_modules
+src/vendor
+.hypress/logs
+src/private.js
+src/public.js
+src/style-private.css
+src/js/index-private.js
+src/style.css
